@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: sans-serif;
+    line-height: 30px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkblue;
+}
+
+h3 {
+    color: darkblue;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+
+header {
+    margin-bottom:2vh;
+}
+
+h1 {
+    margin-top: 4vh;
+    margin-bottom: 2vh;
+}
+
+h3 {
+    margin-bottom: 2vh;
+}
+
+ul {
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.listInfo {
+    list-style-type:  none;
+    padding-left: 0;
+    font-size: 0;
+}
+
+.fontBold {
+    font-weight: bold;
+}
+
+.listSkills {
+    list-style-type:  none;
+    padding-left: 0;
+    display: inline-block;
+    line-height: 40px;
+}
+
+.fontItalic {
+    font-style: italic;
+}
+
+.infoLi {
+    font-size: initial;
+    display: inline-block;
+    width: 35%;
+}
+
+.yearsBlock {
+    font-weight: bold;
+    display: inline-block;
+    width: 10%;
+    vertical-align: top;
+}
+
+.sectionPlug{
+    display: inline-block;
+    width: 10%;
+}
+
+.sectionContent {
+    display: inline-block;
+}
+
+.dividingLine {
+    height: 2px;
+    width: 100%;
+    margin: 0.5em auto;
+    background-color: grey;
+}
