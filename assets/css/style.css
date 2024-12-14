@@ -62,6 +62,7 @@ ul {
 }
 
 .listSkills {
+    margin-left: 10%;
     list-style-type:  none;
     padding-left: 0;
     display: inline-block;
@@ -83,11 +84,6 @@ ul {
     display: inline-block;
     width: 10%;
     vertical-align: top;
-}
-
-.sectionPlug{
-    display: inline-block;
-    width: 10%;
 }
 
 .sectionContent {
