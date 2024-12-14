@@ -51,17 +51,17 @@ ul {
     padding-bottom: 15px;
 }
 
-.listInfo {
+.list-info {
     list-style-type:  none;
     padding-left: 0;
     font-size: 0;
 }
 
-.fontBold {
+.font-bold {
     font-weight: bold;
 }
 
-.listSkills {
+.list-skills {
     margin-left: 10%;
     list-style-type:  none;
     padding-left: 0;
@@ -69,29 +69,29 @@ ul {
     line-height: 40px;
 }
 
-.fontItalic {
+.font-italic {
     font-style: italic;
 }
 
-.infoLi {
+.info-li {
     font-size: initial;
     display: inline-block;
     width: 35%;
 }
 
-.yearsBlock {
+.years-block {
     font-weight: bold;
     display: inline-block;
     width: 10%;
     vertical-align: top;
 }
 
-.sectionContent {
+.section-content {
     display: inline-block;
     vertical-align: top;
 }
 
-.dividingLine {
+.dividing-line {
     height: 2px;
     width: 100%;
     margin: 0.5em auto;
