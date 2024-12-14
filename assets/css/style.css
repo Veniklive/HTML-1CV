@@ -92,6 +92,7 @@ ul {
 
 .sectionContent {
     display: inline-block;
+    vertical-align: top;
 }
 
 .dividingLine {
